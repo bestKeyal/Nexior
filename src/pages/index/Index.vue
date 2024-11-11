@@ -11,7 +11,7 @@
               <h3 class="subtitle">
                 {{ $t('index.subtitle.banner') }}
               </h3>
-              <h3 class="subtitle">无业游民找公司中......</h3>
+              <h3 class="subtitle">医药信息检索作业展示中......</h3>
               <div class="operations">
                 <el-button
                   type="primary"
